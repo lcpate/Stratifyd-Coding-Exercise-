@@ -1,0 +1,52 @@
+div.jumbotron {
+    font-family: Helvetica, sans-serif;
+    background-color: white;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+#main,
+#main2, 
+#main3 {
+    display: none
+}
+
+
+#gears {
+    width: 500px;
+    height: 400px;
+}
+
+#treespic,
+#carbonpic {
+    width: 400px;
+    height: 400px;
+}
+ 
+div.buttons {
+    font-family: Helvetica, sans-serif;
+    margin-left: 400px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgrey;
+    color: white;
+    text-align: center;
+}
+
+#leaf {
+    width: 200px;
+    height: 100px;
+}
+
+h4,
+p {
+    font-family: Helvetica, sans-serif;
+}
